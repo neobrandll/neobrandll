@@ -65,5 +65,4 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="25"/>](https://openai.com) OpenAI
 
-
-🧠 **Prompt Engineering**
+🧠 Prompt Engineering

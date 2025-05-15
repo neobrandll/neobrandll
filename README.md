@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brandon Lugo
+# Brandon Lugo
 
 **Software Engineer | AI Engineer**
 

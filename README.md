@@ -61,6 +61,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25"/> Python
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  alt="pytorch" width="25" /> Pytorch
+
 [<img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="25"/>](https://huggingface.co/transformers/) Hugging Face Transformers
 
 [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="25"/>](https://openai.com) OpenAI

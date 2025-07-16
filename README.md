@@ -4,8 +4,8 @@
 
 ## 🚀 **About Me**
 
-🏡 **Based in:** Austin, Texas  
-🛠️ **Core Focus:** Software AI Engineering
+🏡 **Based in:** Austin, Texas<br>
+🛠️ **Core Focus:** Building AI agents<br>
 🔭 **Currently focused on:** Building intelligent systems with LLMs and Retrieval-Augmented Generation (RAG)
 
 ## 🔧 **Skills and Technologies**
